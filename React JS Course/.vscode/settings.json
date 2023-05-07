@@ -1,0 +1,8 @@
+{
+    "emmet.variables": {
+        "lang": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
